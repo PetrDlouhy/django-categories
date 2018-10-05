@@ -18,6 +18,7 @@ New in 1.8
 
 * Support for Django 3.1
 * Removed support for Python 2.7
+*  Category.slug becomes unique. If there are any duplicates in category slugs, the migration will add sequence number to them.
 
 New in 1.7
 ==========
