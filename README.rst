@@ -17,6 +17,7 @@ New in 2.0
 ==========
 
 *  Category.slug becomes unique. You must remove all duplicates in category slugs before running migrations.
+* Added REST API endpoint
 
 New in 1.7
 ==========
